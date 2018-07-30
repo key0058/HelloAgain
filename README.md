@@ -1,2 +1,4 @@
 #  Project Hello Java Again
-## Practice project for creating java by struts2.5/hibernate5/spring5
+Creating java by struts2.5/hibernate5/spring5
+jchen for xml method
+jchea for annotation method
