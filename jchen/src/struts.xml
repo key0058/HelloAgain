@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+
+
+<struts>
+    <!--  Overwrite Convention -->
+    <constant name="struts.objectFactory" value="spring"/>
+    <constant name="struts.custom.i18n.resources" value="mess"/>
+    <package name="jchen" namespace="/" extends="struts-default">
+
+         <global-allowed-methods>regex:.*</global-allowed-methods>
+
+         <action name="*Action" class="helloAction" method="{1}">
+             <result name="success">/user.jsp</result>
+             <result name="error">/error.jsp</result>
+         </action>
+
+         <action name="*">
+             <result>/{1}.jsp</result>
+         </action>
+    </package>
+
+</struts>
