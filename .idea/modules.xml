@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HelloAgain.iml" filepath="$PROJECT_DIR$/HelloAgain.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jchen/ssh.iml" filepath="$PROJECT_DIR$/jchen/ssh.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jchena/sshanno.iml" filepath="$PROJECT_DIR$/jchena/sshanno.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sshmaven/sshmaven.iml" filepath="$PROJECT_DIR$/sshmaven/sshmaven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HelloAgain.iml" filepath="$PROJECT_DIR$/.idea/HelloAgain.iml" />
     </modules>
   </component>
 </project>
