@@ -1,6 +1,8 @@
 #  Project Hello Java Again
-Creating java by struts2.5/hibernate5/spring5
+Creating java project again
 
-1. jchen for xml method
+1. ssh (include struts2.5/spring5/hibernate5), with xml
 
-2. jchea for annotation method
+2. ssh (include struts2.5/spring5/hibernate5), with annotation
+
+3. sshmaven (include spring5/mybatis3),with maven & annotation
