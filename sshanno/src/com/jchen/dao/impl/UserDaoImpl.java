@@ -1,7 +1,7 @@
-package com.jchen.dao.impl;
+package com.jchen.mapper.impl;
 
 import com.jchen.bean.User;
-import com.jchen.dao.UserDao;
+import com.jchen.mapper.UserDao;
 import org.hibernate.SessionFactory;
 import org.springframework.stereotype.Repository;
 

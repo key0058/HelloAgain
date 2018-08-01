@@ -1,6 +1,6 @@
 package com.jchen.service.impl;
 
-import com.jchen.dao.UserDao;
+import com.jchen.mapper.UserDao;
 import com.jchen.service.UserService;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

@@ -49,7 +49,7 @@
         <aop:advisor advice-ref="txAdvice" pointcut-ref="myPointcut" />
     </aop:config>
 
-    <bean id="userDao" class="com.jchen.dao.impl.UserDaoImpl">
+    <bean id="userDao" class="com.jchen.mapper.impl.UserDaoImpl">
         <property name="sessionFactory" ref="sessionFactory" />
     </bean>
 

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/HelloAgain.iml" filepath="$PROJECT_DIR$/.idea/HelloAgain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sshmaven/sshmaven.iml" filepath="$PROJECT_DIR$/sshmaven/sshmaven.iml" />
     </modules>
   </component>
 </project>

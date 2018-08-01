@@ -1,7 +1,7 @@
 package com.jchen.service.impl;
 
 import com.jchen.bean.User;
-import com.jchen.dao.UserDao;
+import com.jchen.mapper.UserDao;
 import com.jchen.service.HelloService;
 
 public class HelloServiceImpl implements HelloService {

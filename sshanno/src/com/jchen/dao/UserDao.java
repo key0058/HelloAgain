@@ -1,4 +1,4 @@
-package com.jchen.dao;
+package com.jchen.mapper;
 
 import com.jchen.bean.User;
 
